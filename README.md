@@ -1,6 +1,9 @@
 
 # san-demo
 
+说明：
+项目用来演示san中使用svg的问题，[线上演示地址](https://runningdoubi.github.io/san-svg-demo/)
+
 > 这是一个 San 的多页面脚手架产生的项目，适合多页面项目，支持 Smarty 和静态 HTML 做 layout 框架。
 > PS：webapp 是分为框架页面和接口的，**layout 框架** 指 webapp 的承接框架的 HTML 页面，比如 Smarty 输出框架
 
